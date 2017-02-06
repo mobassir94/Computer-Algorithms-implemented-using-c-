@@ -9,7 +9,7 @@ int main()
 
     printf("Enter the input of M:\n");
     scanf("%d",&m);
-    printf("Enter the input of N(N should be less then M):\n");
+    printf("Enter the input of N(N should be less than M):\n");
     scanf("%d",&n);
       for(i=0; i<m; i++)printf("*");
       printf("\n");

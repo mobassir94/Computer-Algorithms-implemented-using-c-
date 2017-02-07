@@ -1,4 +1,4 @@
-///bubble sort algorithm to sort an unordered array to ascending/descending order
+///SELECTION sort algorithm to sort an unordered array to ascending/descending order
 #include<stdio.h>
 int main()
 {

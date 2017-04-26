@@ -7,7 +7,7 @@ int main()
 
      printf("Enter Any number Below To Check If it is a prime Number or Not:\n");
      while(~scanf("%d",&n)){
-                 if(n==1 || n==0){
+                 if(n<=1){
         printf("\n%d isn't a prime number.\n",n);
         boolean=1;
         continue;

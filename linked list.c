@@ -43,9 +43,11 @@ int main()
        display(data);
 
       }
-               while(start != NULL){
+       /*
+       while(start != NULL){
         printf("%d ",start->value);
         start = start ->linker;
+        */
     }
 
 

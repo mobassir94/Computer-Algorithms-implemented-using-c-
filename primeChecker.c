@@ -1,4 +1,4 @@
-//write a program to find prime numbers within range (m to n)
+//write a program to find prime numbers within range (m to n) using sieve's 6th algorithm
 #include<stdio.h>
 #include<math.h>
 int main()

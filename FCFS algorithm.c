@@ -1,3 +1,4 @@
+///fcfs non preemptive CPU scheduling Algorithm
 #include<stdio.h>
 
 int main()

@@ -9,7 +9,7 @@ int main()
     for(i=0; i<n; i++)scanf("%d",&arr[i]);
     ///sorting the array
     for(i=0;i<n-1;i++){
-        for(j=++i; j<n; j++){
+        for(j=i+1; j<n; j++){
           if(arr[i]>arr[j]){     ///replace > with < for descending order
             arr[i]=arr[i]^arr[j];
             arr[j]=arr[i]^arr[j];
